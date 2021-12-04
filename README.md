@@ -1,2 +1,1 @@
-# Project23
-Arch2
+# project-c23-template
